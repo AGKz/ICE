@@ -1,5 +1,7 @@
 ICE
 ===
+Industrial Craft Extras
+===
 
 An IC2 Addon/Standalone Minecraft Mod
 
