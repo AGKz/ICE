@@ -1,0 +1,18 @@
+[
+{
+"modid": "ICE",
+"name": "IC Extras",
+"description": "The Industrial Craft 2 Extras Mod",
+"version": "0.0.1",
+"url": "www.game-walk-through.co.uk",
+"authorList": [
+"MrEP1Cman"
+],
+"credits": "",
+"logoFile": "assets/ICE/logoFile.png",
+"screenshots": [],
+"dependencies": ["forge-9.10.1.871"
+],
+"mcversion": "1.6.2"
+}
+]
