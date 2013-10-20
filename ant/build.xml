@@ -43,10 +43,11 @@
           <arg value="%*"/>
       </exec>
    </target>
- 
+ 	<!-- I would recommend to use reobfuscate_srg, it helps to protect your mod between minior Minecraft Updates (Ex: 1.6.1 to 1.6.2)
+ 	Lex explains it here: http://www.minecraftforge.net/forum/index.php?topic=7058.0 -->
    <target name="reobfuscate" description="MCP reobfuscate">
       <exec executable="${python}" dir="${mcp.dir}">
-          <arg value="runtime/reobfuscate.py"/>
+          <arg value="runtime/reobfuscate_srg.py"/>
           <arg value="%*"/>
       </exec>
    </target>
